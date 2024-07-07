@@ -1,0 +1,125 @@
+.home {
+    font-family: Arial, sans-serif;
+  
+    header {
+      background-color: #4CAF50;
+      padding: 20px;
+      color: white;
+  
+      .header-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+  
+        h1 {
+          margin: 0;
+        }
+  
+        nav ul {
+          list-style-type: none;
+          padding: 0;
+          margin: 0;
+          display: flex;
+  
+          li {
+            margin-right: 20px;
+            cursor: pointer;
+          }
+        }
+  
+        .account-info {
+          display: flex;
+          align-items: center;
+  
+          span {
+            margin-right: 10px;
+          }
+  
+          input {
+            padding: 5px;
+          }
+        }
+      }
+    }
+  
+    main {
+      .hero {
+        background-color: #f4f4f4;
+        padding: 40px 20px;
+        text-align: center;
+  
+        .hero-content {
+          img {
+            max-width: 500px; /* Adjust the logo size */
+            height: auto;
+          }
+  
+          h2 {
+            font-size: 2rem;
+            margin: 20px 0;
+          }
+  
+          button {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+          }
+        }
+      }
+  
+      .services, .design-build-maintain {
+        padding: 20px;
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+  
+        .service, .design, .build, .maintain {
+          margin-bottom: 20px;
+          max-width: 500px; /* Adjust this width according to your needs */
+          text-align: center;
+  
+          h2 {
+            font-size: 1.5rem;
+          }
+  
+          img {
+            width: 100%;
+            height: auto;
+            max-width: 500px; /* Adjust this width according to your needs */
+            margin-bottom: 10px;
+          }
+  
+          button {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+          }
+        }
+      }
+    }
+  
+    footer {
+      background-color: #4CAF50;
+      padding: 20px;
+      color: white;
+      text-align: center;
+  
+      .footer-container {
+        display: flex;
+        justify-content: space-around;
+  
+        button {
+          background-color: transparent;
+          border: none;
+          color: white;
+          cursor: pointer;
+          padding: 5px 10px;
+        }
+      }
+    }
+  }
+  
