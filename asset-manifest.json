@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/jardin-verdoyant-latest/static/css/main.50b2ee43.css",
+    "main.js": "/jardin-verdoyant-latest/static/js/main.fa854661.js",
+    "static/js/453.6df42703.chunk.js": "/jardin-verdoyant-latest/static/js/453.6df42703.chunk.js",
+    "static/media/fruits2.jpg": "/jardin-verdoyant-latest/static/media/fruits2.a1b6f9f34241bf862841.jpg",
+    "static/media/flower1.webp": "/jardin-verdoyant-latest/static/media/flower1.ad812d5f42f541669bdf.webp",
+    "static/media/review3.png": "/jardin-verdoyant-latest/static/media/review3.8660ba00bf4b68fb815e.png",
+    "static/media/review4.png": "/jardin-verdoyant-latest/static/media/review4.04b7540422ff8740c1b5.png",
+    "static/media/bush3.png": "/jardin-verdoyant-latest/static/media/bush3.8ad5910e189f5e366250.png",
+    "static/media/tree2.png": "/jardin-verdoyant-latest/static/media/tree2.5c7cc363f874c8dde52d.png",
+    "static/media/review1.png": "/jardin-verdoyant-latest/static/media/review1.4d75aeafc5c639c54fdf.png",
+    "static/media/review2.png": "/jardin-verdoyant-latest/static/media/review2.f0689a61950b66b5f01d.png",
+    "static/media/flower3.jpg": "/jardin-verdoyant-latest/static/media/flower3.a93bb9c6022d2a7c6de9.jpg",
+    "static/media/bush2.png": "/jardin-verdoyant-latest/static/media/bush2.ee0cc52ceb8c26fd69f6.png",
+    "static/media/tree.png": "/jardin-verdoyant-latest/static/media/tree.e7c9f3a466db490bec76.png",
+    "static/media/garden1.jpeg": "/jardin-verdoyant-latest/static/media/garden1.a458a4bdf43ca912ac8a.jpeg",
+    "static/media/landscaping.webp": "/jardin-verdoyant-latest/static/media/landscaping.9bdff4883045b2c7751d.webp",
+    "static/media/patio.jpeg": "/jardin-verdoyant-latest/static/media/patio.083935a1272be76661ec.jpeg",
+    "static/media/snow.jpeg": "/jardin-verdoyant-latest/static/media/snow.d6282d615044d4c96c8a.jpeg",
+    "static/media/plants1.jpg": "/jardin-verdoyant-latest/static/media/plants1.7efb9b88f3016d641e3b.jpg",
+    "static/media/patio1.jpeg": "/jardin-verdoyant-latest/static/media/patio1.a7cb26523b8e8986f958.jpeg",
+    "static/media/backyard.jpeg": "/jardin-verdoyant-latest/static/media/backyard.ef073430e8a4d2a3518a.jpeg",
+    "static/media/landscaping.jpeg": "/jardin-verdoyant-latest/static/media/landscaping.80de886d2cf3dfc239a9.jpeg",
+    "static/media/backyard2.jpeg": "/jardin-verdoyant-latest/static/media/backyard2.9f88f20cab944ca754a0.jpeg",
+    "static/media/logo.png": "/jardin-verdoyant-latest/static/media/logo.c0a25e6d026187be986c.png",
+    "static/media/flower2.webp": "/jardin-verdoyant-latest/static/media/flower2.20770245881a57772410.webp",
+    "static/media/fruits3.jpg": "/jardin-verdoyant-latest/static/media/fruits3.9d6a8f1e509a04c2ee15.jpg",
+    "static/media/landscapewinter.webp": "/jardin-verdoyant-latest/static/media/landscapewinter.e8821bf1a0cb5e7de8f2.webp",
+    "static/media/bush4.webp": "/jardin-verdoyant-latest/static/media/bush4.a480fd18138dad73ee9b.webp",
+    "static/media/fruits1.jpg": "/jardin-verdoyant-latest/static/media/fruits1.47c6a606aebe15638cbd.jpg",
+    "static/media/bush6.jpg": "/jardin-verdoyant-latest/static/media/bush6.c9e70c5c7394d3ce87fd.jpg",
+    "index.html": "/jardin-verdoyant-latest/index.html",
+    "main.50b2ee43.css.map": "/jardin-verdoyant-latest/static/css/main.50b2ee43.css.map",
+    "main.fa854661.js.map": "/jardin-verdoyant-latest/static/js/main.fa854661.js.map",
+    "453.6df42703.chunk.js.map": "/jardin-verdoyant-latest/static/js/453.6df42703.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50b2ee43.css",
+    "static/js/main.fa854661.js"
+  ]
+}
